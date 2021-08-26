@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShubhamV-30
 - 👀 I’m interested in Full stack web development
-- 🌱 I’m currently learning MERN
+- 🌱 I’m currently learning WEB DEVELOPMENT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
